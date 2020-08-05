@@ -1,0 +1,33 @@
+
+header{
+background-image:url(../images/pestcontrol.jpeg);
+background-repeat:no-repeat;
+line-height:9;
+background-size:cover;
+}
+
+
+
+
+
+.btna{
+font-size:large;
+padding:3% 25%;
+border:0;
+background-color:white;
+margin:2% 0;
+opacity:0.7;
+display:inline-block;
+}
+.btnc{
+font-size:large;
+padding:3% 21%;
+border:0;
+background-color:white;
+margin:2% 0;
+opacity:0.7;
+display:inline-block;
+}
+.right{
+margin-top:4%;
+}

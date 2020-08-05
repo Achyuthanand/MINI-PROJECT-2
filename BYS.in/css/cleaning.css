@@ -1,0 +1,102 @@
+header{
+background-image:url(../images/cleaning.jpg);
+background-repeat:no-repeat;
+line-height:9;
+background-size:cover;
+}
+body
+{
+background-color:#EAECEE ;
+}
+.heading
+{
+margin:0;
+text-align:center;
+color:lightslategrey;
+font-size:x-large;
+font-family:cursive;
+margin-top:2%
+}
+.tagline{
+margin-left:5%
+}
+ 
+.right{
+display: inline-block;
+    float: right;
+margin:0;
+width:35%;
+line-height:5;
+text-align:center;
+background-color:gainsboro  ;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,20.2);
+margin-top:1%;
+margin-right:5%
+} 
+.left{
+display: inline-block;
+width:60%;
+font-size:large;
+}
+main
+{
+margin-top:2%;
+line-height:4;
+}
+.btna{
+font-size:large;
+padding:3% 20%;
+border:0;
+background-color:white;
+margin:2% 0;
+opacity:0.7;
+display:inline-block;
+}
+.btna a{
+text-decoration:none;
+color:black;
+padding:0 4px;
+}
+.btnb{
+font-size:large;
+padding:3% 18%;
+border:0;
+background-color:white;
+margin:2% 0;
+opacity:0.7;
+display:inline-block;
+}
+.btnb a{
+text-decoration:none;
+color:black;
+padding:0 4px;
+}
+
+.btnc{
+font-size:large;
+padding:3% 24%;
+border:0;
+background-color:white;
+margin:2% 0;
+opacity:0.7;
+display:inline-block;
+}
+.btnc a{
+text-decoration:none;
+color:black;
+padding:0 4px;
+}
+.btnd{
+font-size:large;
+padding:3% 21%;
+border:0;
+background-color:white;
+margin:2% 0;
+opacity:0.7;
+display:inline-block;
+}
+.btnd a{
+text-decoration:none;
+color:black;
+padding:0 4px;
+}

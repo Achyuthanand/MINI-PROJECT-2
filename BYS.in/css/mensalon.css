@@ -1,0 +1,35 @@
+header{
+background-image:url(../images/mensalon.jpg);
+background-repeat:no-repeat;
+line-height:9;
+background-size:cover;
+}
+
+.btna{
+font-size:large;
+padding:3% 26%;
+border:0;
+background-color:white;
+margin:2% 0;
+opacity:0.7;
+display:inline-block;
+}
+.btnb{
+font-size:large;
+padding:3% 23%;
+border:0;
+background-color:white;
+margin:2% 0;
+opacity:0.7;
+display:inline-block;
+}
+
+.btnd{
+font-size:large;
+padding:3% 24%;
+border:0;
+background-color:white;
+margin:2% 0;
+opacity:0.7;
+display:inline-block;
+}
