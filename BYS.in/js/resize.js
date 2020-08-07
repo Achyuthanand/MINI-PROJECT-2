@@ -8,7 +8,7 @@ function myFunction(x) {
 
 }
 
-var x = window.matchMedia("(max-width: 1200px)");
+var x = window.matchMedia("(max-width: 1240px)");
 
 myFunction(x);
 x.addListener(myFunction); 
