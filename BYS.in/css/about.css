@@ -156,3 +156,12 @@ color:white;
 padding-left:8px;
 
 }
+
+
+
+
+@media only screen and (max-width: 1200px) {
+  body {
+    display: none;
+  }
+}
