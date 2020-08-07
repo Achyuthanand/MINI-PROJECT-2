@@ -1,3 +1,22 @@
+function myFunction2(y) {
+  if (y.matches) { 
+    
+    
+    alert("This website is designed only for Laptops/Desktops");
+  } 
+
+
+}
+
+var y = window.matchMedia("(max-width: 800px)");
+
+myFunction2(y);
+y.addListener(myFunction2); 
+
+
+
+
+
 function myFunction(x) {
   if (x.matches) { 
     
@@ -16,17 +35,4 @@ x.addListener(myFunction);
 
 
 
-function myFunction2(y) {
-  if (y.matches) { 
-    
-    
-    alert("This website is designed only for Laptops/Desktops");
-  } 
 
-
-}
-
-var y = window.matchMedia("(max-width: 800px)");
-
-myFunction2(y);
-y.addListener(myFunction2); 
